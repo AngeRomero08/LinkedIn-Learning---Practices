@@ -1,1 +1,1 @@
-# LinkedIn-Learning---Practices
+# SQL - Practices
